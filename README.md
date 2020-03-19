@@ -7,14 +7,11 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <meta charset="utf-8" />
 <h1> This is my homepage Mr. H!!!!<h1>
-  </head>
-  <body>
     <script src="sketch.js"></script>
  
 
 <p> If you are reading this it means that you are in grave danger </p>
-<img src="Fractal.jpg">
-    
+
     
     
      </body>
