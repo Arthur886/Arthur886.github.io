@@ -12,7 +12,7 @@
     <script src="sketch.js"></script>
  
 
-<p> If you are reading this it means that you are in grave danger. Take copy this link and run as far away from this place as possible  </p>
+<p> If you are reading this it means that you are in grave danger </p>
 <img src="Fractal.jpg">
     
     
